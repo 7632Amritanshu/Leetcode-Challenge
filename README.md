@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3310-remove-methods-from-project) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
