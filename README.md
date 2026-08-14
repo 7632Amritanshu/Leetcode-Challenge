@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Two Pointers
 |  |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
