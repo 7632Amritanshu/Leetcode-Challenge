@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -19,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
