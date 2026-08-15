@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -79,4 +80,20 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
