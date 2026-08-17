@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
@@ -65,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 ## Trie
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
