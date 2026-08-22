@@ -83,6 +83,7 @@
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Trie
 |  |
 | ------- |
