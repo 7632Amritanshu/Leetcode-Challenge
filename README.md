@@ -43,6 +43,7 @@
 | [0014-longest-common-prefix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
