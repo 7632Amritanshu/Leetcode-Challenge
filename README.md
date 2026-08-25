@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -211,4 +212,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
