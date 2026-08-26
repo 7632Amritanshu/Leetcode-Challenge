@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
