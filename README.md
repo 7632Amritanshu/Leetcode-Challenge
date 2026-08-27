@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
@@ -97,6 +98,7 @@
 | [0043-multiply-strings](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -111,6 +113,7 @@
 | ------- |
 | [0015-3sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quicksort
