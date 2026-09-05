@@ -28,6 +28,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -109,6 +110,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
 | ------- |
