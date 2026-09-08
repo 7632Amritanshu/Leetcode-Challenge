@@ -73,6 +73,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -266,5 +269,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
