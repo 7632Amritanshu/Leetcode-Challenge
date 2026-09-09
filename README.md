@@ -114,6 +114,7 @@
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3536-maximum-product-of-two-digits](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3871-count-commas-in-range-ii) |
@@ -131,6 +132,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort
 |  |
 | ------- |
