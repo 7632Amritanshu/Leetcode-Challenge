@@ -74,10 +74,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -270,5 +273,6 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
