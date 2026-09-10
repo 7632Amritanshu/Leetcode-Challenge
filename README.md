@@ -75,6 +75,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -270,6 +271,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
 ## Newton's Method
 |  |
 | ------- |
