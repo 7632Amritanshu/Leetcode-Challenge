@@ -101,6 +101,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
@@ -109,6 +110,7 @@
 | [0043-multiply-strings](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
@@ -278,4 +280,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
