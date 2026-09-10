@@ -76,6 +76,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -272,6 +273,7 @@
 | [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | [0100-same-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Newton's Method
 |  |
 | ------- |
