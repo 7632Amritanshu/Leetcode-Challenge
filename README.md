@@ -25,6 +25,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
