@@ -119,6 +119,7 @@
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -269,6 +271,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3903-smallest-stable-index-i) |
@@ -305,4 +308,5 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
