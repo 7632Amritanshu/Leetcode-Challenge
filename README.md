@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0045-jump-game-ii) |
 | [1927-sum-game](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -310,6 +312,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
