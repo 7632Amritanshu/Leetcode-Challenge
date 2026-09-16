@@ -14,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -255,6 +257,7 @@
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0047-permutations-ii) |
 ## Matrix
 |  |
 | ------- |
