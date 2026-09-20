@@ -69,6 +69,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0043-multiply-strings](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
