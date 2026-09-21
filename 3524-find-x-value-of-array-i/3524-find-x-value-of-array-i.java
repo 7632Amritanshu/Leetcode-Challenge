@@ -4,22 +4,21 @@ class Solution {
         long[] dp = new long[k];
 
         for (int num : nums) {
-            long[] next = new long[k];
+            long[] temp = new long[k];
+            int value = num % k;
 
-            int val = num % k;
-
-            next[val]++;
+            temp[value]++;
 
             for (int r = 0; r < k; r++) {
-                int newR = (r * val) % k;
-                next[newR] += dp[r];
+                int rem = (r * value) % k;
+                temp[rem] += dp[r];
             }
 
             for (int r = 0; r < k; r++) {
-                ans[r] += next[r];
+                ans[r] += temp[r];
             }
 
-            dp = next;
+            dp = temp;
         }
 
         return ans;
