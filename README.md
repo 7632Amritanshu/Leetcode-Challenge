@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -329,6 +330,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3524-find-x-value-of-array-i) |
