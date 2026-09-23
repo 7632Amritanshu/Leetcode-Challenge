@@ -16,6 +16,7 @@
 | [0045-jump-game-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
 |  |
