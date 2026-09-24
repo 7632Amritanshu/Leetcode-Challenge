@@ -54,6 +54,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0038-count-and-say](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
