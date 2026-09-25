@@ -55,6 +55,7 @@
 | [0031-next-permutation](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1927-sum-game) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -351,4 +354,8 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
