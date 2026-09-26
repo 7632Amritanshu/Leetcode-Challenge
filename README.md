@@ -28,6 +28,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
@@ -76,6 +77,7 @@
 | [0043-multiply-strings](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -233,6 +235,7 @@
 | [0202-happy-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
