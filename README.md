@@ -31,6 +31,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0048-rotate-image) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
 |  |
@@ -351,6 +354,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
 |  |
