@@ -19,6 +19,7 @@
 | [0047-permutations-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -304,6 +306,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
