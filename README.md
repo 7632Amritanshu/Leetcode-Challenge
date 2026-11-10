@@ -147,6 +147,7 @@
 | [0066-plus-one](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -363,6 +364,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -377,4 +379,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0202-happy-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/7632Amritanshu/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
